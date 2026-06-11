@@ -10,7 +10,7 @@
 - Python HTML/CSS software development practices
 
 ## Current Projects
-- computer programming (link) — short description
+- computer programming  — This repository contains my computer programming coursework, exercises, and projects as I learn JavaScript and software development fundamentals.
 
 ## How to Reach Me
 - Email: chegenapoleon6@gmail.com
