@@ -1,7 +1,7 @@
-# Hi, I'm [Napoleon chege]
+# Hi, I'm Napoleon chege
 
 ## About Me
-- I'm currently learning what you're studying, e.g., "Computer programming at IYF".
+- I'm currently learning what you're studying, e.g., Computer programming at IYF.
 - I'm interested in software engineering.
 - I'm looking to collaborate on beginner-friendly open source projects.
 
